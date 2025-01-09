@@ -1,0 +1,8 @@
+{
+  "name": "com.crizgames.ffmpegcore",
+  "version": "5.1.0",
+  "displayName": "FFMpegCore",
+  "description": "A Unity package for the FFMpegCore library by rosenbjerg.",
+  "documentationUrl": "https://github.com/CrizGames/FFMpegCoreUnity",
+  "author": "CrizGames"
+}
